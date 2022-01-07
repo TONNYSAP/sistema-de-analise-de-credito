@@ -27,3 +27,5 @@
   PRIMARY KEY (`id_emprestimo`),
   KEY `fk_id_solicitante` (`fk_id_solicitante`)
 ) ENGINE=MyISAM AUTO_INCREMENT=7 DEFAULT CHARSET=latin1
+
+### O JPA - ligação do App com o Banco de dados usando o "persistence.xml" , pasta META-INF.
