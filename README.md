@@ -5,7 +5,7 @@ app está ainda longe do ideal, mas tentei deixar mais proximo
 do que imaginei. Aprendi com um certo grau de conforto JPA, Mysql,
 a ligação do BD com o App e CRUD.
 
-### Criei um banco de dados no mysql chamado de bancocliente:
+### Criei um banco de dados no mysql chamado de bancocliente com duas tabelas:
 
 * CREATE DATABASE bancocliente;
 
