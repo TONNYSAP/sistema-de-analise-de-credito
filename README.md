@@ -3,7 +3,9 @@ Durante a criação desse app pude aplicar varios conceitos que
 aprendi no bootcamp e aprendi mais outros também. Sei que esse 
 app está ainda longe do ideal, mas tentei deixar mais proximo 
 do que imaginei. Aprendi com um certo grau de conforto JPA, Mysql,
-a ligação do BD com o App e CRUD.
+a ligação do BD com o App e CRUD. Na pasta 
+src/main/java/com.dio.sistemaanalisedecredito está todo o controle 
+do app é só descomentar, rodar e seguir com o processo.
 
 ### Criei um banco de dados no mysql chamado de bancocliente com duas tabelas:
 
