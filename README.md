@@ -7,6 +7,12 @@ a ligação do BD com o App e CRUD. Na pasta
 src/main/java/com.dio.sistemaanalisedecredito está todo o controle 
 do app é só descomentar parte por parte, rodar e seguir com o processo.
 
+## Para ter acesso ao Banco de Dados usa-se o EntityManagerFactory da seguinte forma:
+```java
+  private static EntityManagerFactory managerFactory = Persistence.createEntityManagerFactory("BDcliente");
+	private static EntityManager manager = managerFactory.createEntityManager();
+```
+
 ### Criei um banco de dados no mysql chamado de bancocliente com duas tabelas:
 
 * CREATE DATABASE bancocliente;
